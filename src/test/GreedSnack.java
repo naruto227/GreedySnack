@@ -1,6 +1,7 @@
 package test;
 
 /**
+ * 贪吃蛇游戏
  * Created by hzq on 17-1-19.
  */
 public class GreedSnack {
